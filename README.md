@@ -1,4 +1,4 @@
-## Márlon Bento estudante de Engenharia de Computação!
+## Márlon Bento Azevedo: estudante de Engenharia de Computação!
 <div>
   
   <img   src="https://github-readme-stats.vercel.app/api?username=marlon-bento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
