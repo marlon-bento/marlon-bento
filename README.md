@@ -39,7 +39,7 @@
 <div align="center" style="width:300px; " >
    <img style="display:block;margin:0 auto;
       width: 100%;
-    max-height: 190px;
+    max-height: 100px;
     background: white;
     object-fit: contain;" src="user.gif"/>
 </div>
