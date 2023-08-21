@@ -36,7 +36,7 @@
     </a>
 </div>
 
-<div align="center" style="background-color:white;" >
+<div align="center" style="width:300px; " >
    <img style="display:block;margin:0 auto;" src="user.gif"/>
 </div>
 
