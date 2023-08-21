@@ -36,7 +36,7 @@
     </a>
 </div>
 
-<div styly="display:block; margin:0 auto;">
+<div style="margin:0 auto;">
    <img src="https://media4.giphy.com/media/WubZPnIa2o0CI/giphy.gif?cid=ecf05e47wiifzeq1nb7dldnv2zgwsumw1bnt1admul55tyxz&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 </div>
 
