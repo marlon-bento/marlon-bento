@@ -21,9 +21,6 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "marlon2020mg@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
     <a href = "https://www.linkedin.com/in/marlon-bento-461ba755/">
       <img width="25" src="linkedin.svg">
     </a>
