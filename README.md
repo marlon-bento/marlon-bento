@@ -35,5 +35,11 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+<div style="
+  background-image : url('https://media4.giphy.com/media/WubZPnIa2o0CI/giphy.gif?cid=ecf05e47wiifzeq1nb7dldnv2zgwsumw1bnt1admul55tyxz&ep=v1_gifs_related&rid=giphy.gif&ct=g');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center center;
+  ">
   
-![Snake animation]([https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg](https://media4.giphy.com/media/WubZPnIa2o0CI/giphy.gif?cid=ecf05e47wiifzeq1nb7dldnv2zgwsumw1bnt1admul55tyxz&ep=v1_gifs_related&rid=giphy.gif&ct=g)https://media4.giphy.com/media/WubZPnIa2o0CI/giphy.gif?cid=ecf05e47wiifzeq1nb7dldnv2zgwsumw1bnt1admul55tyxz&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+</div>
