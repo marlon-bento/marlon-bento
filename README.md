@@ -24,6 +24,9 @@
     <a href = "https://www.linkedin.com/in/marlon-bento-461ba755/">
       <img width="25" src="linkedin.svg">
     </a>
+      <a href = "mailto: marlon2020mg@gmail.com/">
+      <img width="25" src="gmail.svg">
+    </a>
 </div>
 
 
