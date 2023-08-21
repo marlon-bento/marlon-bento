@@ -14,8 +14,8 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="java.png">
-    <img align="center" height="30" width="40" alt="c#-icon" src="c#icon.png">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" height="30" width="40" alt="c#-icon" src="cicon.png">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="bootstrapicon.png">
    </div>
     
   
