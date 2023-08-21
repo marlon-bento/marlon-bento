@@ -1,9 +1,7 @@
 ## Faaaala dev, Luigi Aqui!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-bento&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marlon-bento&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marlon-bento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-bento&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
