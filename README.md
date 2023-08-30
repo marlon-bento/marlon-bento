@@ -1,7 +1,7 @@
 ## Márlon Bento Azevedo: estudante de Engenharia de Computação!
 
 <div align="center">
-  <img   src="https://github-readme-stats.vercel.app/api?username=marlon-bento&show_icons=true&theme=dracula"/>
+  <img   src="https://github-readme-stats.vercel.app/api?username=marlon-bento&show_icons=true&theme=dracula&rank_icon=github"/>
   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-bento&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
